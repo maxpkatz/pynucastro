@@ -9,10 +9,18 @@ pynucastro.networks package
 Submodules
 ----------
 
-pynucastro.networks.base\_fortran\_network module
--------------------------------------------------
+pynucastro.networks.amrexastro\_cxx\_network module
+---------------------------------------------------
 
-.. automodule:: pynucastro.networks.base_fortran_network
+.. automodule:: pynucastro.networks.amrexastro_cxx_network
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+pynucastro.networks.base\_cxx\_network module
+---------------------------------------------
+
+.. automodule:: pynucastro.networks.base_cxx_network
    :members:
    :undoc-members:
    :show-inheritance:
@@ -33,11 +41,18 @@ pynucastro.networks.rate\_collection module
    :undoc-members:
    :show-inheritance:
 
-pynucastro.networks.starkiller\_network module
-----------------------------------------------
+pynucastro.networks.simple\_cxx\_network module
+-----------------------------------------------
 
-.. automodule:: pynucastro.networks.starkiller_network
+.. automodule:: pynucastro.networks.simple_cxx_network
    :members:
    :undoc-members:
    :show-inheritance:
 
+pynucastro.networks.sympy\_network\_support module
+--------------------------------------------------
+
+.. automodule:: pynucastro.networks.sympy_network_support
+   :members:
+   :undoc-members:
+   :show-inheritance:
